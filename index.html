@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>个人简历 - 张三</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: 'Helvetica Neue', Helvetica, Arial, 'Microsoft Yahei', sans-serif; background: #f4f4f4; margin: 0; }
+        .container { max-width: 800px; background: #fff; margin: 40px auto; padding: 32px 24px; border-radius: 12px; box-shadow: 0 2px 16px rgba(0,0,0,0.08);}
+        h1 { margin-top: 0; }
+        .section { margin-top: 32px; }
+        .info { color: #444; font-size: 16px; }
+        .info span { display: inline-block; min-width: 86px; }
+        ul { padding-left: 24px; }
+        .skills-list { display: flex; flex-wrap: wrap; gap: 10px;}
+        .skill { background: #efefef; padding: 6px 14px; border-radius: 14px; font-size: 14px;}
+        @media (max-width: 600px) {
+            .container { padding: 12px 4px; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>张三</h1>
+    <p class="info">
+        <span>电话：</span>138-0000-0000<br>
+        <span>Email：</span>zhangsan@email.com<br>
+        <span>地址：</span>北京市海淀区
+    </p>
+
+    <div class="section">
+        <h2>个人简介</h2>
+        <p>五年互联网开发经验，擅长全栈开发，热爱学习新技术，具备良好的团队协作能力和沟通能力。</p>
+    </div>
+
+    <div class="section">
+        <h2>教育背景</h2>
+        <p><strong>北京大学</strong> &nbsp;|&nbsp; 计算机科学与技术 本科 &nbsp; <em>2015 - 2019</em></p>
+    </div>
+
+    <div class="section">
+        <h2>工作经历</h2>
+        <ul>
+            <li>
+                <strong>百度 | 前端工程师</strong> &nbsp; <em>2019.7 - 2023.2</em><br>
+                负责主站核心业务开发，主导重构多个模块，实现高性能数据交互。
+            </li>
+            <li>
+                <strong>字节跳动 | 全栈开发工程师</strong> &nbsp; <em>2023.3 - 至今</em><br>
+                担任小组技术骨干，推动前后端架构优化，开发高并发业务系统。
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>项目经验</h2>
+        <ul>
+            <li>
+                <strong>电商后台管理系统开发</strong><br>
+                负责系统架构设计与前端页面开发，支持商品管理、订单处理等多项功能。
+            </li>
+            <li>
+                <strong>高并发秒杀系统</strong><br>
+                参与整体设计与核心代码编写，系统支持秒级响应和百万级用户访问。
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>技能特长</h2>
+        <div class="skills-list">
+            <span class="skill">JavaScript</span>
+            <span class="skill">Vue.js</span>
+            <span class="skill">Node.js</span>
+            <span class="skill">Python</span>
+            <span class="skill">MySQL</span>
+            <span class="skill">Linux</span>
+        </div>
+    </div>
+</div>
+</body>
+</html>

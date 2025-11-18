@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Hu Chang / Phd"
+title                    : "Hu Chang / Home"
 title_separator          : "-"
 name                     : &name "Hu Chang"
 description              : &description "Hu Chang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "DSC07033.JPG"
   name             : "Hu Chang"
   pronouns         : # example: "she/her"  
-  bio              : "Nanjing University"
+  bio              : "life is too short to stuff a mushroom"
   location         : "Earth"
   employer         : "Nanjing University"
   uri              : # URL
@@ -54,8 +54,8 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  facebook         : #Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username

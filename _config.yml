@@ -30,7 +30,7 @@ author:
   location         : "Earth"
   employer         : "Nanjing University"
   uri              : # URL
-  email            : "huchang@smail.nju.edu.cn" 
+  email:huchang@smail.nju.edu.cn            : "huchang@smail.nju.edu.cn" 
 
   # Academic websites
   academia         : # URL

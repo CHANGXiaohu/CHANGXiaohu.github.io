@@ -24,4 +24,4 @@ Professional Appointments:
 
 For more info
 ------
-Wait a picture.
+Wait a few minutes.

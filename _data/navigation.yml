@@ -12,10 +12,10 @@ main:
     url: /publications/
 
   - title: "Project"
-    url: /Project/    
+    url: /talk/    
 
   - title: "Honors and Awards"
-    url: /Honors and Awards/    
+    url: /teaching/    
     
   - title: " Professional Appointments"
     url: / Professional Appointments/

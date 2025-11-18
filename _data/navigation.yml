@@ -11,14 +11,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Project"
+  - title: "talk"
     url: /talk/    
 
   - title: "Honors and Awards"
     url: /teaching/    
     
   - title: " Professional Appointments"
-    url: / Professional Appointments/
+    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
